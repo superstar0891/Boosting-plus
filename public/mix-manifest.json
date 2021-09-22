@@ -1,0 +1,10 @@
+{
+    "/dash/js/app.js": "/dash/js/app.js",
+    "/dash/css/app.css": "/dash/css/app.css",
+    "/frontend/css/style.css": "/frontend/css/style.css",
+    "/frontend/js/main.js": "/frontend/js/main.js",
+    "/node_modules/tinymce/jquery.tinymce.js": "/node_modules/tinymce/jquery.tinymce.js",
+    "/node_modules/tinymce/jquery.tinymce.min.js": "/node_modules/tinymce/jquery.tinymce.min.js",
+    "/node_modules/tinymce/tinymce.js": "/node_modules/tinymce/tinymce.js",
+    "/node_modules/tinymce/tinymce.min.js": "/node_modules/tinymce/tinymce.min.js"
+}
